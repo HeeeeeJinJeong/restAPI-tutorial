@@ -2,13 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="155eb13b-0931-4d80-908e-b47f8514c340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../monoground_studio/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../monoground_studio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../monoground_studio/.idea/monoground_studio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../monoground_studio/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aiohttpchat/.idea/aiohttpchat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ajax_project/.idea/ajax_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_basic/.idea/api_basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backoffice/.idea/backoffice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../board_project/.idea/board_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../custom_user_project/.idea/custom_user_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_tutorial/.idea/django_tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../editor_project/.idea/editor_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/fc_shopping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fc_shopping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jjin_craft/.idea/jjin_craft.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jjin_craft/gallery/templates/gallery/craft_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jjin_craft/gallery/templates/gallery/craft_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.idea/monoground_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/config/asset_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/templates/costume/category_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/templates/costume/costume_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/templates/costume/costume_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/costume/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/templates/home/home_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/home/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/information/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/information/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/information/templates/information/information_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/information/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/information/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/layout/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/templates/scenery/category_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/templates/scenery/scenery_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/templates/scenery/scenery_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/scenery/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../monoground_project/secrets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multi_database/.idea/multi_database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polls/.idea/polls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../polls/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/.idea/reservation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/layout/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/templates/reservation/reservation_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/templates/reservation/reservation_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/templates/reservation/reservation_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/templates/reservation/reservation_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/templates/reservation/reservation_update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/reservation/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reservation/secrets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../wps-fastflix/.idea/vcs.xml" beforeDir="false" />
@@ -20,88 +96,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="127" column="19" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="127" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snippets/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="86" column="46" selection-start-line="86" selection-start-column="46" selection-end-line="86" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="e#632#664#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snippets/permissions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -112,55 +106,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/snippets/models.py" />
-        <option value="$PROJECT_DIR$/snippets/permissions.py" />
-        <option value="$PROJECT_DIR$/snippets/serializers.py" />
-        <option value="$PROJECT_DIR$/tutorial/settings.py" />
-        <option value="$PROJECT_DIR$/tutorial/urls.py" />
-        <option value="$PROJECT_DIR$/snippets/urls.py" />
-        <option value="$PROJECT_DIR$/snippets/views.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="908" />
-    <option name="height" value="956" />
-  </component>
+  <component name="ProjectId" id="1UXeM8B7lBozi6MfpmYnRkR9RI4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="restAPI_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restAPI_tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restAPI_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restAPI_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="snippets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restAPI_tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restAPI_tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -200,93 +148,15 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="908" height="956" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1848929" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298611" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298611" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/snippets/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="127" column="19" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="127" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#632#664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="86" column="46" selection-start-line="86" selection-start-column="46" selection-end-line="86" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
